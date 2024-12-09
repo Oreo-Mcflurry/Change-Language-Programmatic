@@ -1,0 +1,31 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "10-25" : {
+
+    },
+    "Change Language %@" : {
+
+    },
+    "Hello, world!" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "안녕, 세상!"
+          }
+        }
+      }
+    },
+    "I don’t have a handicap" : {
+
+    },
+    "Less than 10" : {
+
+    },
+    "More than 25" : {
+
+    }
+  },
+  "version" : "1.0"
+}
